@@ -1,0 +1,22 @@
+*{
+margin: 0;
+box-sizing: border-box;
+background-color: #1B252C;
+}
+
+
+.App{
+  width: 80%;
+  margin: 0 auto;
+  background-color: #1B252C;
+}
+
+body {
+  background-color: #1B252C;
+  color: #fff;
+  font-family: Verdana, sans-serif;
+  font-style: normal;
+  line-height: 1.5;
+  margin: 0 auto;
+  width: 90%;
+}

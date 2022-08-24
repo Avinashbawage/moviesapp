@@ -1,0 +1,14 @@
+.search [type='search'] {
+    background-color: #ffffff;
+    color: #898F9C;
+    padding: 0.5em 2em;
+    text-align: center;
+    width: 100%;
+}
+
+.search {
+    font-size: 1.5rem;
+    margin: 1.5em auto 3em;
+    max-width: 80%;
+ 
+}

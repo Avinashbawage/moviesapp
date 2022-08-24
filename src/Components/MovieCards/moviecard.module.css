@@ -1,0 +1,49 @@
+.movie{
+    width: 162px;
+    background-color: #1E2931;   
+    cursor: pointer;
+}
+
+.imgs{
+    width: 162px;
+    height: 242px;
+}
+ 
+.movietitle{ 
+    text-align: center;
+    padding: 1em;
+    background-color: #1E2931; 
+    opacity: 0; 
+    color: #fff;
+ 
+}
+ 
+.movie:hover .movietitle{
+    color: #fff;
+    cursor: pointer;    
+    opacity: 1; 
+}
+
+ 
+
+.maincontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.search [type='search'] {
+    background-color: #ffffff;
+    color: #898F9C;
+    padding: 0.5em 2em;
+    text-align: center;
+    width: 100%;
+}
+
+.search {
+    font-size: 1.5rem;
+    margin: 1.5em auto 3em;
+    max-width: 80%;
+ 
+}
